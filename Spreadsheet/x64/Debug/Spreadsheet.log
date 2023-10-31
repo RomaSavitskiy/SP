@@ -1,0 +1,9 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Spreadsheet.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  main.cpp
+  table.cpp
+C:\Users\user\Desktop\Study\СП\Spreadsheet\Spreadsheet\table.cpp(81,27): warning C4267: return: преобразование из "size_t" в "INT"; возможна потеря данных
+C:\Users\user\Desktop\Study\СП\Spreadsheet\Spreadsheet\table.cpp(92,40): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\Desktop\Study\СП\Spreadsheet\Spreadsheet\table.cpp(157,67): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+C:\Users\user\Desktop\Study\СП\Spreadsheet\Spreadsheet\main.cpp(66): warning C4715: WndProc: значение возвращается не при всех путях выполнения
+  Spreadsheet.vcxproj -> C:\Users\user\Desktop\Study\СП\Spreadsheet\x64\Debug\Table.exe
